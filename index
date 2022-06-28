@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Whitewater Rafting Vacations | Dry Oar Boating | Home</title>
+    <meta charset="utf-8" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="/styles.css" />
+  </head>
+
+  <body>
+    <div id="content">
+      <header>
+        <div class="logo-box">
+          <a href="index.html"
+            ><img
+              src="https://cdn.glitch.global/7b6142fe-9c83-46f0-bf49-3a0176511ed8/roundlogo.png?v=1645301775204"
+              alt="Dry Oar rafting logo"
+            /> </a
+          >
+        </div>
+        <nav>
+          <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="rivers-we-run.html">Rivers We Run</a></li>
+            <li><a href="faq.html">FAQ</a></li>
+          </ul>
+        </nav>
+      </header>
+      <main>
+        <div class="banner-box">
+          <img
+            class="banner"
+            src="https://cdn.glitch.global/7b6142fe-9c83-46f0-bf49-3a0176511ed8/river-wide.jpg?v=1642801828250"
+            alt="river landscape"
+          />
+          <div class="action">
+            <h3>Plan your next adventure with us!</h3>
+            <button>Contact us</button>
+          </div>
+        </div>
+        <div class="home-grid">
+          <h2 class="home-headline-1">We run rivers to relax</h2>
+          <p class="home-paragraph-1">
+            We believe that there is nothing like a river trip for relaxing.
+            That is why we subscribe to the dry oar philosophy of boating.
+            Keeping your oars dry for us means taking time to look around and
+            notice the beauty that surrounds the rivers we love.
+          </p>
+          <img
+            class="home-right-img"
+            src="https://cdn.glitch.global/7b6142fe-9c83-46f0-bf49-3a0176511ed8/deso-boats.jpg?v=1642801734599"
+            alt="people relaxing on the river"
+          />
+
+          <h2 class="home-headline-2">We run whitewater for the rush</h2>
+          <p class="home-paragraph-2">
+            That doesn't mean we don't also like rapids. Opposites in all things
+            after all. We believe that that tenseness that comes when you are
+            looking down the tongue of a big string of waves makes you
+            appreciate the calm beautiful water that always follows even more.
+          </p>
+          <img
+            class="home-left-img"
+            src="https://cdn.glitch.global/7b6142fe-9c83-46f0-bf49-3a0176511ed8/salmon-kayak3.jpg?v=1642801781892"
+            alt="man rafting on whitewater"
+          />
+          <section class="home-paragraph-3">
+            <h2>Come run with us!</h2>
+            <p>
+              We invite you to come relax with us on one of the amazing rivers
+              we visit. <br />Check out our trips and let us know which one best
+              suits you. We're waiting to hear from you!
+            </p>
+          </section>
+        </div>
+      </main>
+
+      <footer>
+        <p>&copy; 2022 Dry Oar - Angie DUHARD - WDD 130 06</p>
+        <div class="social">
+          <a href="http://www.facebook.com" target="_blank"
+            ><img
+              src="https://cdn.glitch.global/7b6142fe-9c83-46f0-bf49-3a0176511ed8/facebook.png?v=1643313197262"
+              alt="Facebook icon"
+            />
+          </a>
+          <a href="http://www.instagram.com" target="_blank"
+            ><img
+              src="https://cdn.glitch.global/7b6142fe-9c83-46f0-bf49-3a0176511ed8/instagram.png?v=1643313199912"
+              alt="Instagram icon"
+          /></a>
+          <a href="http://www.youtube.com" target="_blank">
+            <img
+              src="https://cdn.glitch.global/7b6142fe-9c83-46f0-bf49-3a0176511ed8/youtube.png?v=1643314019662"
+              alt="Youtube icon"
+          /></a>
+        </div>
+      </footer>
+    </div>
+  </body>
+</html>
